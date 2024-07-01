@@ -1,1 +1,0 @@
-1. [ ] when arriving to the Landing page the user should have a way to view all catagories, all businesses, and register a business
